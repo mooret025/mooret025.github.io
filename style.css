@@ -1,0 +1,39 @@
+/* h1 {
+    font-family: cursive;
+}
+
+h1 em {
+    color: #f7e816;
+}
+
+body {
+    background-color: #6d2994;
+}
+
+a {
+    color: orange;
+    text-decoration: none;
+}
+
+table {
+    border: 2px solid #f7e816;
+    border-radius: 10px;
+}
+
+.fontType {
+    font-family: fantasy;
+}
+
+img {
+    border: 2px solid #f7e816;
+    border-radius: 75%;
+} */
+
+#main {
+    display: block;
+    background-color: #6d2994;
+}
+
+#img-div {
+    width: 100%;
+}
